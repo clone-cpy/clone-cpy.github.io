@@ -5,8 +5,16 @@
     <link>https://clone-cpy.github.io</link>
     <description>nzh 的个人博客 —— 记录关于技术、设计与生活的思考。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 08 Sep 2026 06:02:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 06:52:07 GMT</lastBuildDate>
     <atom:link href="https://clone-cpy.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>2026-11-9测试</title>
+      <link>https://clone-cpy.github.io/posts/2026-11-9%E6%B5%8B%E8%AF%95</link>
+      <guid isPermaLink="true">https://clone-cpy.github.io/posts/2026-11-9%E6%B5%8B%E8%AF%95</guid>
+      <pubDate>Mon, 09 Nov 2026 06:52:07 GMT</pubDate>
+      <description>测试</description>
+      <category>随笔</category>
+    </item>
     <item>
       <title>写作，是另一种形式的思考</title>
       <link>https://clone-cpy.github.io/posts/writing-is-thinking</link>
