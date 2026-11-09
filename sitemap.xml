@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://localhost:4321/</loc>
+    <loc>https://clone-cpy.github.io/</loc>
     
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>http://localhost:4321/posts</loc>
+    <loc>https://clone-cpy.github.io/posts</loc>
     
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>http://localhost:4321/about</loc>
+    <loc>https://clone-cpy.github.io/about</loc>
     
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:4321/posts/css-variables-design-system</loc>
+    <loc>https://clone-cpy.github.io/posts/css-variables-design-system</loc>
     <lastmod>2026-10-28T06:02:50.462Z</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://localhost:4321/posts/the-power-of-whitespace</loc>
+    <loc>https://clone-cpy.github.io/posts/the-power-of-whitespace</loc>
     <lastmod>2026-10-12T06:02:50.462Z</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://localhost:4321/posts/react-19-details</loc>
+    <loc>https://clone-cpy.github.io/posts/react-19-details</loc>
     <lastmod>2026-09-24T06:02:50.462Z</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://localhost:4321/posts/writing-is-thinking</loc>
+    <loc>https://clone-cpy.github.io/posts/writing-is-thinking</loc>
     <lastmod>2026-09-08T06:02:50.462Z</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://localhost:4321/posts/my-terminal-workflow</loc>
+    <loc>https://clone-cpy.github.io/posts/my-terminal-workflow</loc>
     <lastmod>2026-08-21T06:02:50.462Z</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://localhost:4321/posts/clean-code-notes</loc>
+    <loc>https://clone-cpy.github.io/posts/clean-code-notes</loc>
     <lastmod>2026-08-03T06:02:50.462Z</lastmod>
     <priority>0.8</priority>
   </url>
