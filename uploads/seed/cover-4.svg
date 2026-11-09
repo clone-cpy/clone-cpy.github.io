@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f43f5e"/>
+      <stop offset="0.55" stop-color="#f97316"/>
+      <stop offset="1" stop-color="#fbbf24"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="0.2" cy="0.15" r="0.7">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="0.85" cy="0.9" r="0.8">
+      <stop offset="0" stop-color="#000000" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <rect width="1200" height="800" fill="url(#glow1)"/>
+  <rect width="1200" height="800" fill="url(#glow2)"/>
+  <circle cx="980" cy="210" r="360" fill="#ffffff" opacity="0.10"/>
+  <circle cx="1080" cy="640" r="260" fill="#ffffff" opacity="0.08"/>
+  <g fill="none" stroke="#ffffff" stroke-opacity="0.35" stroke-width="1.5">
+    <circle cx="980" cy="210" r="300"/>
+    <circle cx="980" cy="210" r="220"/>
+  </g>
+  <text x="96" y="128" fill="#ffffff" fill-opacity="0.9" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="30" letter-spacing="8">随笔 · WRITING</text>
+  <text x="96" y="640" fill="#ffffff" fill-opacity="0.22" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="460" font-weight="700">写</text>
+  <text x="96" y="716" fill="#ffffff" fill-opacity="0.85" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="28" letter-spacing="4">林间小筑 · LINJIAN</text>
+  <text x="1104" y="716" text-anchor="end" fill="#ffffff" fill-opacity="0.6" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="28">04 / 06</text>
+</svg>

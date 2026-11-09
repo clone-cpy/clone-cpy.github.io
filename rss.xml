@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>林间小筑</title>
+    <link>http://localhost:4321</link>
+    <description>林墨的个人博客 —— 记录关于前端工程、设计与生活的思考。</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Mon, 09 Nov 2026 06:18:36 GMT</lastBuildDate>
+    <atom:link href="http://localhost:4321/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>用 CSS 变量构建可维护的设计系统</title>
+      <link>http://localhost:4321/posts/css-variables-design-system</link>
+      <guid isPermaLink="true">http://localhost:4321/posts/css-variables-design-system</guid>
+      <pubDate>Wed, 28 Oct 2026 06:02:50 GMT</pubDate>
+      <description>当项目规模增长，颜色、间距、圆角散落在各处会变成一场灾难。CSS 自定义属性或许是这场混乱的解药。</description>
+      <category>前端</category>
+      <category>设计系统</category>
+      <category>CSS</category>
+    </item>
+    <item>
+      <title>留白的力量：从排版说起</title>
+      <link>http://localhost:4321/posts/the-power-of-whitespace</link>
+      <guid isPermaLink="true">http://localhost:4321/posts/the-power-of-whitespace</guid>
+      <pubDate>Mon, 12 Oct 2026 06:02:50 GMT</pubDate>
+      <description>好的设计不是把所有东西都塞进去，而是知道该舍弃什么。聊聊留白如何让界面呼吸起来。</description>
+      <category>设计</category>
+      <category>排版</category>
+    </item>
+    <item>
+      <title>React 19 中那些值得关注的细节</title>
+      <link>http://localhost:4321/posts/react-19-details</link>
+      <guid isPermaLink="true">http://localhost:4321/posts/react-19-details</guid>
+      <pubDate>Thu, 24 Sep 2026 06:02:50 GMT</pubDate>
+      <description>Actions、use()、Server Components……新版本带来的不只是语法糖，更是思维方式的转变。</description>
+      <category>工程</category>
+      <category>React</category>
+    </item>
+    <item>
+      <title>写作，是另一种形式的思考</title>
+      <link>http://localhost:4321/posts/writing-is-thinking</link>
+      <guid isPermaLink="true">http://localhost:4321/posts/writing-is-thinking</guid>
+      <pubDate>Tue, 08 Sep 2026 06:02:50 GMT</pubDate>
+      <description>当你试图把一个想法写清楚的时候，才会发现自己其实并没有真正想清楚。这是我坚持写作的原因。</description>
+      <category>随笔</category>
+      <category>写作</category>
+    </item>
+    <item>
+      <title>我的终端工作流（2026 版）</title>
+      <link>http://localhost:4321/posts/my-terminal-workflow</link>
+      <guid isPermaLink="true">http://localhost:4321/posts/my-terminal-workflow</guid>
+      <pubDate>Fri, 21 Aug 2026 06:02:50 GMT</pubDate>
+      <description>从 zsh 配置到常用别名，从 tmux 布局到 fzf 模糊搜索，分享每天陪伴我八小时的工具链。</description>
+      <category>效率</category>
+      <category>工具</category>
+    </item>
+    <item>
+      <title>《代码整洁之道》重读笔记</title>
+      <link>http://localhost:4321/posts/clean-code-notes</link>
+      <guid isPermaLink="true">http://localhost:4321/posts/clean-code-notes</guid>
+      <pubDate>Mon, 03 Aug 2026 06:02:50 GMT</pubDate>
+      <description>第二次读这本书，感受完全不同。曾经觉得是教条的东西，如今成了每天写代码时的下意识反应。</description>
+      <category>阅读</category>
+      <category>工程</category>
+    </item>
+  </channel>
+</rss>
